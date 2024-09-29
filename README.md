@@ -36,10 +36,3 @@ RentCar App este o platformă completă pentru închirierea de mașini, care fac
 
 Aplicația este concepută pentru a oferi o experiență sigură și eficientă de închiriere, atât pentru proprietarii de mașini, cât și pentru clienți.
 """
-
-# Saving this content into a README.md file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
