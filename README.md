@@ -1,5 +1,5 @@
 # Creating the content for the README.md file
-readme_content = """
+
 # RentCar App - Car Rental & Booking System
 
 RentCar App este o platformă completă pentru închirierea de mașini, care facilitează interacțiunea dintre proprietarii de mașini și clienții care doresc să le închirieze.
